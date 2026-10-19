@@ -16,7 +16,9 @@ flowchart LR
 
 ## Screenshot
 
-Screenshot placeholder: run the app and add a screenshot here.
+<img width="748" height="419" alt="Screenshot 2026-10-19 110444" src="https://github.com/user-attachments/assets/01f938bd-126d-42c6-9330-c2a500f26147" />
+<img width="863" height="373" alt="Screenshot 2026-10-19 110521" src="https://github.com/user-attachments/assets/6cdc9f53-9e98-47b7-873e-adcd3eaea876" />
+
 
 ## Setup
 
