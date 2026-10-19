@@ -1,0 +1,14 @@
+[
+  {"post":"I am building a climate dashboard and need backend APIs and data visualization. I can contribute React and TypeScript, around 8 hours weekly, UTC-5.","expected_id":"p06"},
+  {"post":"Food sharing app needs frontend and UX. I can build Python services and APIs, 10 hours a week, UTC-5.","expected_id":"p02"},
+  {"post":"Accessible reading app needs frontend and mobile developers. I offer UX research and Figma, 6 hours weekly, UTC+1.","expected_id":"p03"},
+  {"post":"Making a language learning mobile game. I have Flutter and illustration skills; seeking a writer and backend helper. 7 hours, UTC+1.","expected_id":"p04"},
+  {"post":"Research assistant powered by NLP. I offer Python and machine learning; need a frontend builder and someone to help write. 12 hours UTC+0.","expected_id":"p05"},
+  {"post":"Neighborhood map needs design and frontend. I can offer Postgres, backend, and data visualizations, 8 hours/week UTC-5.","expected_id":"p06"},
+  {"post":"Journaling project needs mobile and UX support. I can do copywriting and content strategy. 5 hours UTC+1.","expected_id":"p07"},
+  {"post":"Building a personal finance tracker. I can do React, CSS and frontend, but need Python/backend help. 9 hours UTC+0.","expected_id":"p09"},
+  {"post":"Podcast discovery project: looking for React frontend and writing. I can bring Node backend and API design, 10 hours UTC-8.","expected_id":"p11"},
+  {"post":"Birdsong classifier needs frontend and data visualization; I bring Python, ML and audio processing. 11 hours UTC+1.","expected_id":"p16"},
+  {"post":"Our history archive needs writing and backend. I offer accessible React frontend, 7 hours, UTC+2.","expected_id":"p19"},
+  {"post":"Need a designer and backend developer for a habit tracker. I can contribute mobile, React Native and frontend, 5 hours UTC-8.","expected_id":"p27"}
+]
